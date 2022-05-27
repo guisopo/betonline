@@ -1,6 +1,7 @@
 import { Header } from './Components/Header';
 import { GameList } from './Components/GameList';
 import { Footer } from './Components/Footer';
+import './styles/main.scss'
 
 function App() {
   return (
