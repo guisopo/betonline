@@ -1,9 +1,16 @@
 import React from 'react'
+import './index.scss'
 
 export const Footer = () => {
   return (
-    <header className="footer">
-      <h2>Footer</h2>
-    </header>
+    <footer className="footer">
+      <div className="menu-icon">
+        <div className="lines-wrapper">
+          <span className="menu-line"></span>
+          <span className="menu-line"></span>
+          <span className="menu-line"></span>
+        </div>
+      </div>
+    </footer>
   )
 }
