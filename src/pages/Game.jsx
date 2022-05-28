@@ -1,11 +1,11 @@
 import { Header } from '../Components/Header';
 import { Footer } from '../Components/Footer';
 
-export const Game = () => {
+export const Game = ({ gameTitle }) => {
   return (
     <>
       <Header/>
-      <h1>Game</h1>
+        <h1>{gameTitle}</h1>
       <Footer/>
     </>
   );
