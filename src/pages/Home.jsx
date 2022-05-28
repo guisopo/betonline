@@ -1,6 +1,6 @@
-import { Header } from '../Components/Header';
-import { GameList } from '../Components/GameList';
-import { Footer } from '../Components/Footer';
+import { Header } from '../Components/Header'
+import { Footer } from '../Components/Footer'
+import { GameList } from '../Components/GameList'
 
 export const Home = () => {
   return (

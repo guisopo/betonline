@@ -1,8 +1,8 @@
 import * as React from "react";
-import { Routes, Route } from "react-router-dom";
+import './styles/main.scss'
 import { Game } from "./pages/Game";
 import { Home } from "./pages/Home";
-import './styles/main.scss'
+import { Routes, Route } from "react-router-dom";
 
 function App() {
   return (
