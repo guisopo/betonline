@@ -7,10 +7,13 @@
 
   .image-wrapper {
     height: inherit;
+    display: flex;
+    align-items: center;
   }
 
   &__logo {
     display: block;
     height: inherit;
+    height: 40px;
   }
 }
