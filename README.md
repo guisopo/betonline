@@ -4,17 +4,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Folders
 
-In the src directory, you can find:
+In the src directory you can the next folders:
 
 ### `Components`
 
-| File Name | Description                                     |
-| --------- | ----------------------------------------------- |
-| Footer    | Site Footer                                     |
-| GameList  | Section with a grid that contains list of games |
-| GridItem  | List item for each game                         |
-| Header    | Site Header                                     |
-| MenuIcon  | Icon that opens the site Menu                   |
+Each folder contains also the components styles.
+
+| Folder Name | Description                                     |
+| ----------- | ----------------------------------------------- |
+| Footer      | Site Footer                                     |
+| GameList    | Section with a grid that contains list of games |
+| GridItem    | List item for each game                         |
+| Header      | Site Header                                     |
+| MenuIcon    | Icon that opens the site Menu                   |
 
 ### `images`
 
