@@ -10,13 +10,14 @@ In the src directory you can the next folders:
 
 Each folder contains also the components styles.
 
-| Folder Name | Description                                     |
-| ----------- | ----------------------------------------------- |
-| Footer      | Site Footer                                     |
-| GameList    | Section with a grid that contains list of games |
-| GridItem    | List item for each game                         |
-| Header      | Site Header                                     |
-| MenuIcon    | Icon that opens the site Menu                   |
+| Folder Name        | Description                                           |
+| ------------------ | ----------------------------------------------------- |
+| Footer             | Site Footer                                           |
+| GameContentSection | Template to be developed to show single games content |
+| GameList           | Section with a grid that contains list of games       |
+| GridItem           | List item for each game                               |
+| Header             | Site Header                                           |
+| MenuIcon           | Icon that opens the site Menu                         |
 
 ### `images`
 
