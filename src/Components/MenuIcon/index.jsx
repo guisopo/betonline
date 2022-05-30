@@ -4,6 +4,8 @@ import './index.scss'
 export const MenuIcon = () => {
   const [menuOpen, setMenuOpen] = useState(false)
 
+  // = = = = = = = = = = = = =
+  // Event Handlers
   const handleClick = () => {
     setMenuOpen(!menuOpen)
   }

@@ -1,7 +1,7 @@
 import React from 'react'
 import './index.scss'
+import { Link } from 'react-router-dom'
 import gameCover from '../../images/game-pic.png'
-import { Link } from "react-router-dom";
 
 
 export const GridItem = ({ game }) => {
@@ -14,7 +14,7 @@ export const GridItem = ({ game }) => {
           <img className="grid-item__image" src={gameCover} alt="game cover" />
           {/* <img className="grid-item__image" src={game.FeaturedImageUrl} alt="game cover" /> */}
         </div>
-        
+
         <h3 className="grid-item__title">{game.GameName}</h3>
 
       </Link>

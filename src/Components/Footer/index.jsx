@@ -1,6 +1,6 @@
 import React from 'react'
-import { MenuIcon } from '../MenuIcon'
 import './index.scss'
+import { MenuIcon } from '../MenuIcon'
 
 export const Footer = () => {
   return (

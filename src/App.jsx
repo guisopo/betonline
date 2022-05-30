@@ -1,8 +1,8 @@
-import * as React from "react";
+import * as React from 'react'
 import './styles/main.scss'
-import { Game } from "./pages/Game";
-import { Home } from "./pages/Home";
-import { Routes, Route } from "react-router-dom";
+import { Game } from './pages/Game'
+import { Home } from './pages/Home'
+import { Routes, Route } from 'react-router-dom'
 
 function App() {
   return (
@@ -15,4 +15,4 @@ function App() {
   );
 }
 
-export default App;
+export default App
