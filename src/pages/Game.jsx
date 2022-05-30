@@ -1,11 +1,12 @@
 import { Header } from '../Components/Header'
 import { Footer } from '../Components/Footer'
+import { GameContentSection } from '../Components/GameContentSection'
 
 export const Game = () => {
   return (
     <>
       <Header/>
-        <h1>Single Game Template Page</h1>
+      <GameContentSection />
       <Footer/>
     </>
   );

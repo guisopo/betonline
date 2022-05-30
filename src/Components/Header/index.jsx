@@ -1,7 +1,7 @@
 import React from 'react'
 import './index.scss'
-import siteLogo from '../../images/logo.png'
 import { Link } from 'react-router-dom'
+import siteLogo from '../../images/logo.png'
 
 export const Header = () => {
   return (
